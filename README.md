@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Pranay Venkatesh. I am an undergraduate student double majoring in chemistry and chemical engineering at BITS Pilani.
+
+
+- 🔭 I'm currently working on molecular dynamics simulations and electronic structure calculations of conducting polymer systems. 
+
+- 👯 I'm looking to collaborate on open source projects in computational chemistry, materials science and condensed matter physics.
+
+- 📫 How to reach me: f20191004 at pilani.bits-pilani.ac.in
+
 <!--
 **chemicalfiend/chemicalfiend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
