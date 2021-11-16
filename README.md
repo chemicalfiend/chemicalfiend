@@ -7,11 +7,11 @@ My name is Pranay Venkatesh. I am an undergraduate student double majoring in ch
 
 - 👯 I'm looking to collaborate on open source projects in computational sciences which includes projects related to : theoretical chemistry, materials science, solid state physics and fluid mechanics (primarily related to modelling properties of matter)
 
+- 🤠 Exploring Embedded Systems, Computer Architecture, Operating Systems and IoT.
+
+- 🌱 I’m currently learning Computational Fluid Dynamics, theory of Partial Differential Equations.
+
 - 📫 How to reach me: f20191004 at pilani.bits-pilani.ac.in
-
-- 🤠 Exploring embedded systems, computer architecture, operating systems and IoT.
-
-- 🌱 I’m currently learning computational fluid dynamics, theory of partial differential equations.
 
 <!--
 **chemicalfiend/chemicalfiend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
