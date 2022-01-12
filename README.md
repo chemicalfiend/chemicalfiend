@@ -1,15 +1,15 @@
-### Hi there 👋
+### Greetings
 
 My name is Pranay Venkatesh. I am an undergraduate student double majoring in chemistry and chemical engineering at BITS Pilani. I am interested in Computational Materials Science.
 
 
 - 🔭 I'm currently working on molecular dynamics simulations and electronic structure calculations of conducting polymer systems. 
 
-- 👯 I'm looking to collaborate on open source projects in computational sciences which includes projects related to : theoretical chemistry, materials science and solid state physics (anything pertaining to matter modelling).
+- 👯 I'm looking to collaborate on open source projects in computational sciences which includes projects related to : theoretical chemistry, materials science, microfluidics, computational fluid dynamics and solid state physics (anything pertaining to matter modelling).
 
 - 🌱 I’m currently learning about Theory of Partial Differential Equations.
 
-- 🤠 Exploring Parallel Computing, Embedded Systems, Computer Architecture, Operating Systems and IoT.
+- 🤠 Exploring Parallel and GPU computing , Embedded Systems.
 
 - 📫 How to reach me: f20191004 at pilani.bits-pilani.ac.in
 
