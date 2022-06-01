@@ -6,10 +6,6 @@ My name is Pranay Venkatesh. I am an undergraduate student double majoring in ch
 - 🔭 I'm currently working on molecular dynamics simulations and electronic structure calculations of conducting polymer systems. 
 
 - 👯 I'm looking to collaborate on open source projects in computational sciences which includes projects related to : theoretical chemistry, comptational materials science, microfluidics, computational fluid dynamics, soft matter, condensed matter physics (anything pertaining to matter modelling).
-
-- 🌱 I’m currently learning about Quantum Computing and Quantum Information.
-
-- 🤠 Exploring Embedded Systems and DIY Electronics.
  
 - ⚡ Linux and ThinkPad Enthusiast.
 
