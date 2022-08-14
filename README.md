@@ -11,6 +11,8 @@ My name is Pranay Venkatesh. I am an undergraduate student double majoring in ch
 
 - 📫 How to reach me: f20191004 at pilani.bits-pilani.ac.in
 
+- ⚡ Small projects, games, scripts : [gists](https://gist.github.com/chemicalfiend/) or [pastebin](https://pastebin.com/u/chemicalfiend101)
+
 <!--
 **chemicalfiend/chemicalfiend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
