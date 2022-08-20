@@ -1,15 +1,15 @@
 ### Greetings
 
-My name is Pranay Venkatesh. I am an undergraduate student double majoring in chemistry and chemical engineering at BITS Pilani and a computational materials scientist.
+My name is Pranay Venkatesh. I am an undergraduate student double majoring in chemistry and chemical engineering at BITS Pilani and a soft matter simulation scientist.
 
 
 - 🔭 I'm currently working on molecular dynamics simulations and electronic structure calculations of conducting polymer systems. 
 
-- 👯 I'm looking to work on open-source projects in computational sciences, specifically projects related to : comptational materials science, soft matter, condensed matter physics and fluid simulations (anything pertaining to matter modelling)
- 
-- 🇦 I use Arch, btw.
+- 👯 Looking to work on projects in numerical simulations, theories of condensed phases, organic semiconductor materials, microfluidics and MEMS devices.
 
-- 📫 How to reach me: f20191004 at pilani.bits-pilani.ac.in
+- 🇦 Linux enthusiast(?) ([I use Arch, btw.](https://knowyourmeme.com/memes/btw-i-use-arch))
+
+- 📫 How to reach me: pranay dot venkatesh at gmail dot com
 
 - ⚡ Small projects, games, scripts : [gists](https://gist.github.com/chemicalfiend/) or [pastebin](https://pastebin.com/u/chemicalfiend101)
 
