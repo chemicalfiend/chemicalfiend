@@ -3,11 +3,9 @@
 My name is Pranay Venkatesh. I am an undergraduate student double majoring in chemistry and chemical engineering at BITS Pilani and a Computational Materials Science researcher.
 
 
-- 🔭 I'm currently working on organic semiconductors, particularly self-assembly and charge transport.
+- 🔭 I'm currently working on conducting polymers, particularly self-assembly and charge transport.
 
-- 👯 Looking to work on projects in numerical simulations, organic semiconductor materials and devices, electronic structure and charge transport in disordered materials, nano-scale transport and NEMS devices.
-
-- 🇦 Linux enthusiast(?) ([I use Arch, btw.](https://knowyourmeme.com/memes/btw-i-use-arch))
+- 👯 Looking to work on theoretical and computational projects in organic semiconductor materials, electronic structure and charge transport in disordered materials and nano-scale devices and transport
 
 - 📫 How to reach me: pranay dot venkatesh at gmail dot com
 
