@@ -1,11 +1,11 @@
 ### Greetings
 
-My name is Pranay Venkatesh. I am an undergraduate chemistry and chemical engineering student at BITS Pilani.
+My name is Pranay Venkatesh. I'm a research student at Imperial College, London and a Julia programmer.
 
 
 - 🔭 I'm currently working on the polaron problem in semiconductors, using non-adiabatic dynamics.
 
-- 👯 My research interests are: theoretical and computational problems in physics of semiconductor materials, specifically electronic structure and charge transport in disordered materials. I also like engineering problems in nano-scale devices
+- 👯 My research interests are: theoretical and computational problems in physics of semiconductor materials and devices.
 
 - 📫 How to reach me: pranay dot venkatesh at gmail dot com
 
