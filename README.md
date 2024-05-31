@@ -1,6 +1,6 @@
 ### Greetings
 
-My name is Pranay Venkatesh. I'm a research student at Imperial College, London and a Julia programmer.
+My name is Pranay Venkatesh. I'm a PhD student at the University of Colorado, Boulder.
 
 
 - 🔭 I'm currently working on the polaron problem in semiconductors, using non-adiabatic dynamics.
