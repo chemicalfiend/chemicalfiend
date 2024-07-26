@@ -1,11 +1,10 @@
 ### Greetings
 
 My name is Pranay Venkatesh. I'm a PhD student at the University of Colorado, Boulder.
+  
+- 🔭 My research interest (broadly) : Theory and computation in studying the chemical physics of optoelectronic devices.
 
-
-- 🔭 I'm currently working on the polaron problem in semiconductors, using non-adiabatic dynamics.
-
-- 👯 My research interests are: theoretical and computational problems in physics of semiconductor materials and devices.
+- 👯 More on my website : [https://chemicalfiend.github.io](https://chemicalfiend.github.io)
 
 - 📫 How to reach me: pranay dot venkatesh at gmail dot com
 
